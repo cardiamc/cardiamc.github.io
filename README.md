@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco Cardia 👋
 
-I'm a PostDoc at the University of Pisa. Originally from the beautiful island of **Sardinia**, I'm passionate about applying Machine Learning to solve real world challenges in environmental science and digital accessibility.
+Born and raised in the beautiful island of Sardinia, I'm a computer scientist and currently a PostDoc at the University of Pisa. I'm passionate about applying Machine Learning to solve real world challenges in environmental science and digital accessibility.
 
 My work involves building robust, data-driven systems that can interpret complex data spacing from spectroscopic signals in water to visual information in scientific documents. I am driven by a passion for transforming data into meaningful, actionable insights and making technology more inclusive.
 
@@ -24,20 +24,6 @@ I am now expanding my research into the crucial field of **digital accessibility
 
 *   📈 Exploring the application of time-series analysis for predictive water quality monitoring.
 
----
-
-### 🚀 Featured Projects
-
-*   **Wastewater & Drinking Water Quality Estimation**
-    *   My core Ph.D. work. I developed a suite of ML models to analyze UV-Vis spectroscopic data for real-time water quality assessment. This work includes data augmentation with CGANs and in-depth model interpretability analysis.
-
-*   **AdjNet - Crowd Flow Prediction**
-    *   My M.Sc. thesis project, an approach for crowd flow prediction using Graph Convolutional Networks (GCN) and CNNs.
-    *   [Link to Repository](https://github.com/jonpappalord/crowd_flow_prediction)
-
-*   **BioASQ - Biomedical Question Answering**
-    *   Contributed to a system for biomedical question answering using Python, PyTorch, and Hugging Face transformers.
-    *   [Link to Repository](https://github.com/fsabiu/BioASQ2020)
 
 ---
 
