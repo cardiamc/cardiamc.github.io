@@ -4,7 +4,7 @@ layout: default
 
 ### Hi there, I'm Marco Cardia 👋
 
-I'm a **Ph.D. Candidate in Computer Science** at the University of Pisa. Originally from the beautiful island of **Sardinia**, I'm passionate about applying Machine Learning to solve real world challenges in environmental science and digital accessibility.
+Born and raised in the beautiful island of Sardinia, I'm a computer scientist and currently a PostDoc at the University of Pisa. I'm passionate about applying Machine Learning to solve real world challenges in environmental science and digital accessibility.
 
 My work focuses on building robust, data-driven systems that can interpret complex data, spacing from spectroscopic signals in water to visual information in scientific documents. I am driven by a mission to transform data into meaningful, actionable insights and to make technology more inclusive.
 
@@ -43,7 +43,7 @@ You can explore my public projects on my **[GitHub profile](https://github.com/c
 When I'm not in front of a computer, you can find me:
 
 *   **🏃‍♂️ Running:** I am a competitive middle-distance track and field athlete. You can follow my results and progress on my [Atletica.me profile](https://atletica.me/atleta/Marco-Cardia/56164).
-*   **🎭 Participating in drama class from La Ribalta Teatro**.
+*   **🎭 Taking part in drama classes from La Ribalta Teatro.**.
 *   **🎹 Playing the piano.**
 *   **📚 Reading:** You can see what I'm currently reading on [my Goodreads profile](https://www.goodreads.com/user/show/180396890-marco-cardia).
 *   **🌲 Trekking** and enjoying the outdoors.

@@ -1,15 +1,14 @@
 # Site Settings
-title: Marco Cardia | Ph.D. Candidate & Researcher
+title: Marco Cardia | Ph.D. PostDoc
 description: >-
-  Personal academic and research portfolio of Marco Cardia.
+  Personal academic and research portfolio.
   Exploring Machine Learning for environmental science and digital accessibility.
 author: Marco Cardia
 github_username: cardiamc
 linkedin_username: marco-cardia
 
-# Build Settings
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/tactile@v0.2.0
 
-# Add plugins for more features
 plugins:
-  - jekyll-seo-tag
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+  
