@@ -64,4 +64,4 @@ When I'm not in front of a computer, you can find me:
 ---
 
 ### 📫 How to Reach Me
-    [LinkedIn](https://www.linkedin.com/in/marco-cardia/)
+*    My [LinkedIn](https://www.linkedin.com/in/marco-cardia/) profile
