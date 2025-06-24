@@ -1,0 +1,15 @@
+# Site Settings
+title: Marco Cardia | Ph.D. Candidate & Researcher
+description: >-
+  Personal academic and research portfolio of Marco Cardia.
+  Exploring Machine Learning for environmental science and digital accessibility.
+author: Marco Cardia
+github_username: cardiamc
+linkedin_username: marco-cardia
+
+# Build Settings
+theme: jekyll-theme-cayman
+
+# Add plugins for more features
+plugins:
+  - jekyll-seo-tag
