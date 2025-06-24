@@ -55,7 +55,7 @@ I am now expanding my research into the crucial field of **digital accessibility
 ### 🏃 Hobbies & Interests
 
 When I'm not in front of a computer, you can find me:
-*   🏃‍♂️ Competing as a middle-distance track and field runner. You can follow my progress on [my Atletica.me profile](https://atletica.me/atleta/Marco-Cardia/56164).
+*   🏃‍♂️ Competing as a middle-distance track and field runner. You can follow my progress on my [Atletica.me profile](https://atletica.me/atleta/Marco-Cardia/56164) or [Strava profile](https://www.strava.com/athletes/46778301).
 *   🎭 Participating in my drama class
 *   🎹 Playing the piano
 *   📚 Reading
