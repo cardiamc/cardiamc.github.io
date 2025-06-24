@@ -1,8 +1,8 @@
 ### Hi there, I'm Marco Cardia 👋
 
-I'm a PostDoc at the University of Pisa, passionate about applying Machine Learning to solve real-world challenges in environmental science and digital accessibility.
+I'm a PostDoc at the University of Pisa. Originally from the beautiful island of **Sardinia**, I'm passionate about applying Machine Learning to solve real world challenges in environmental science and digital accessibility.
 
-My work involves building robust, data-driven systems that can interpret complex data—from spectroscopic signals in industrial wastewater to visual information in scientific documents. I am driven by a passion for transforming data into meaningful, actionable insights and making technology more inclusive.
+My work involves building robust, data-driven systems that can interpret complex data spacing from spectroscopic signals in water to visual information in scientific documents. I am driven by a passion for transforming data into meaningful, actionable insights and making technology more inclusive.
 
 
 ---
@@ -12,7 +12,7 @@ My work involves building robust, data-driven systems that can interpret complex
 During my doctoral research I worked on developing advanced soft-sensing systems using Machine Learning and spectroscopy. I design and train models to estimate and predict water quality indicators in complex industrial and drinking water environments.
 A key part of my work involves tackling data scarcity and ensuring model transparency through interpretability techniques.
 
-I am now expanding my research into the crucial field of **digital accessibility**. My current focus is to leverage AI to make scientific and technical visual content—such as charts, graphs, and diagrams—fully accessible to visually impaired users by generating meaningful and accurate alternative descriptions. This new direction combines my expertise in data-driven modeling with a commitment to creating more inclusive technology.
+I am now expanding my research into the crucial field of **digital accessibility**. My current focus is to leverage AI to make scientific and technical visual content, such as charts, graphs, and diagrams, fully accessible to visually impaired users by generating meaningful and accurate alternative descriptions. This new direction combines my expertise in data-driven modeling with a commitment to creating more inclusive technology.
 
 ---
 
