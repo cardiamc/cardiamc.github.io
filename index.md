@@ -7,7 +7,7 @@ layout: default
 <!-- ![Marco Cardia profile photo]({{ site.baseurl }}/assets/images/profile.jpg) -->
 
 <!-- Profile Photo Section -->
-<img src="/assets/images/profile.jpg" alt="Marco Cardia profile photo" style="display: block; margin-left: auto; margin-right: auto; width: 250px; border-radius: 50%;" />
+<img src="/assets/images/profile.jpg" alt="Marco Cardia profile photo" style="display: block; margin-left: auto; margin-right: auto; width: 120px; border-radius: 50%;" />
 
 Born and raised in the beautiful island of Sardinia, I'm a computer scientist and currently a PostDoc at the University of Pisa. I'm passionate about applying Machine Learning to solve real world challenges in environmental science and digital accessibility.
 
