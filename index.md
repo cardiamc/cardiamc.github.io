@@ -29,7 +29,7 @@ My research has been published in several peer-reviewed conferences and journals
 
 **[You can view a full list of my publications here.](./publications.html)**
 
-For a comprehensive and up-to-date list, please also see my [Google Scholar](https://scholar.google.com/citations?user=your_id_here) profile.
+For a comprehensive and up-to-date list, please also see my [Google Scholar](https://scholar.google.com/citations?user=qo3FShYAAAAJ) profile.
 
 ---
 
