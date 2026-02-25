@@ -4,7 +4,7 @@ layout: default
 
 # Publications
 
-Here you can find a list of my peer-reviewed publications. For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=your_id_here) profile.
+Here you can find a list of my peer-reviewed publications. For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=qo3FShYAAAAJ&hl=it) profile.
 
 ---
 
@@ -17,6 +17,11 @@ Here you can find a list of my peer-reviewed publications. For the most up-to-da
 ---
 
 ### Conference Proceedings
+
+Cardia, Marco, et al. "A Descriptive Review of Image Datasets for Accessible Alternative Descriptions in STEM Domains." Proceedings of the 16th Biannual Conference of the Italian SIGCHI Chapter. 2025.
+- **A Descriptive Review of Image Datasets for Accessible Alternative Descriptions in STEM Domains.**
+    *Cardia, M., Buzzi, M., Galesi, G., & Leporini, B.*
+    *In Proceedings of the 16th Biannual Conference of the Italian SIGCHI Chapter (CHItaly 2025), ACM*
 
 -  **Water quality estimation through machine learning multivariate analysis.** (2024)  
     *Cardia, M., Chessa, S., Micheli, A., Luminare, A. G., & Gambineri, F.*  

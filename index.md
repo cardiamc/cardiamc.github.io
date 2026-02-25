@@ -47,7 +47,7 @@ You can explore my public projects on my **[GitHub profile](https://github.com/c
 
 When I'm not in front of a computer, you can find me:
 
-*   **🏃‍♂️ Running:** I am a competitive middle-distance track and field athlete. You can follow my results and progress on my [Atletica.me profile](https://atletica.me/atleta/Marco-Cardia/56164).
+*   **🏃‍♂️ Running:** I am a competitive middle-distance track and field athlete. You can follow my results and progress on my [Atletica.me profile](https://atletica.me/atleta/Marco-Cardia/56164) and [Strava profile](https://www.strava.com/athletes/46778301).
 *   **🎭 Taking part in drama classes from La Ribalta Teatro.**.
 *   **🎹 Playing the piano.**
 *   **📚 Reading:** You can see what I'm currently reading on [my Goodreads profile](https://www.goodreads.com/user/show/180396890-marco-cardia).
